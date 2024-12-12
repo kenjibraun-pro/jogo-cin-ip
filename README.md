@@ -139,16 +139,6 @@ Based on the content covered during the course, the code was improved to incorpo
 - update(): Updates the projectile's position, moving it from right to left, and removes it if it leaves the screen.
 - draw(screen): Draws the projectile on the screen at the current position.
 
-
-## Game images:
-
-<p align="center">
-<img src="game_images/home_screen.png" alt="Home Screen" width="400" style="display: inline-block;" />
-<img src="game_images/personage_defeat.gif" alt="Character Defeat" width="400" style="display: inline-block;" />
-<img src="game_images/ifmenu_screen.png" alt="History Screen" width="400" style="display: inline-block;" />
-<img src="game_images/victory_screen.png" alt="Victory Screen" width="400" style="display: inline-block;" />
-</p>
-
 ## Final Thanks:
 
 The team would like to thank the professors, monitors and everyone at UFPE (CIn-UFPE) who made this possible. Thank you for all the help, feedback and support. Thank you!!
