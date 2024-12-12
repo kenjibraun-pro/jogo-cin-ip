@@ -26,49 +26,49 @@ Equipe:
 |  **epo** | Fase 1, integração dos Arquivos e Fases, Mecânica do Jogo e Desing dos personagens individuais |
 | **tffg**  e **mbcf** | Documentação e Slide |
 
-# História e Evolução
+# History and Evolution
 
-Origens Literárias
-A história que inspirou o jogo tem suas raízes na série de livros "As Crônicas de Gelo e Fogo" de George R. R. Martin. O primeiro livro, "A Game of Thrones" (1996), introduziu os leitores ao mundo complexo e brutal de Westeros, onde diversas casas nobres lutam pelo poder. A trama é rica em intriga política, batalhas épicas e personagens multifacetados.
+Literary Origins
+The story that inspired the game has its roots in George R. R. Martin's "A Song of Ice and Fire" book series. The first book, "A Game of Thrones" (1996), introduced readers to the complex and brutal world of Westeros, where several noble houses fight for power. The plot is rich with political intrigue, epic battles and multifaceted characters.
 
-**Historia do Jogo**
+**Game History**
 
-O Trono de Ferro está vago, e o reino de Westeros está à beira do caos. As antigas alianças se desmoronam, e novos inimigos surgem de todos os lados. A escuridão se aproxima, e apenas os mais bravos e determinados podem reivindicar o trono e restaurar a ordem no reino.
-Em uma jornada épica e solitária, três heróis se destacam, cada um com uma missão pessoal que os leva por terras perigosas e desconhecidas. No caminho, eles devem enfrentar dragões poderosos, monstros antigos que guardam segredos e riquezas. Essas criaturas lendárias, uma vez símbolo de poder e majestade, agora se tornaram os maiores obstáculos para alcançar o trono.
-A cada batalha, os heróis se tornam mais fortes, mas também mais desafiados pelas escolhas que precisam fazer. As decisões tomadas ao longo da jornada moldarão o destino de Westeros. Será que os heróis conseguirão superar os desafios e reivindicar o Trono de Ferro? Ou a escuridão consumirá o reino para sempre?
+The Iron Throne is vacant, and the kingdom of Westeros is on the brink of chaos. Old alliances crumble, and new enemies emerge from all sides. Darkness approaches, and only the bravest and most determined can claim the throne and restore order to the kingdom.
+In an epic and lonely journey, three heroes stand out, each with a personal mission that takes them through dangerous and unknown lands. Along the way, they must face powerful dragons, ancient monsters that guard secrets and riches. These legendary creatures, once a symbol of power and majesty, have now become the greatest obstacles to achieving the throne.
+With each battle, the heroes become stronger, but also more challenged by the choices they need to make. Decisions made along the journey will shape the destiny of Westeros. Will the heroes be able to overcome the challenges and claim the Iron Throne? Or will darkness consume the kingdom forever?
 
-**Sua missão**
+**Your mission**
 
-Entre no mundo de Westeros e escolha seu herói. Enfrente dragões mortai e tome decisões cruciais. O destino do Trono de Ferro e de todo o reino está em suas mãos.
+Enter the world of Westeros and choose your hero. Face deadly dragons and make crucial decisions. The fate of the Iron Throne and the entire realm is in your hands.
 
-## Execução no pycharm 
+## Execution in pycharm
 
-Para executar o jogo, siga os passos abaixo:
+To run the game, follow the steps below:
 
-- Baixe e Instale o Pycharm.
-- Abra os arquivos
-- Execute o arquivo main.py 
-- Execute os arquivos individuais de cada personagem
-> obs.: Caso a imagem não seja compatível, lembre-se de modificar o local do arquivo da imagem no código.
+- Download and install Pycharm.
+- Open the files
+- Run the main.py file
+- Run the individual files for each character
+> Note: If the image is not compatible, remember to modify the location of the image file in the code.
 
-## Mecânicas de Jogo:
+## Game Mechanics:
 
-O jogo é um design 2D com câmera "Bird-Vision" (vista de cima) e estilo de gameplay de plataforma. O personagem pode se movimentar em todas as direções e realizar ataques que variam conforme o personagem escolhido:
+The game is a 2D design with a "Bird-Vision" camera (viewed from above) and a platform gameplay style. The character can move in all directions and perform attacks that vary depending on the chosen character:
 
-• Jon Snow: Luta corpo a corpo com espada, atacando com a tecla "K".
+• Jon Snow: Fights hand-to-hand with a sword, attacking with the "K" key.
 
-• Daenerys Targaryen: Dispara projéteis para combate à distância, mantendo-se longe dos dragões.
+• Daenerys Targaryen: Fires projectiles for ranged combat, staying away from dragons.
 
-• Stannis Baratheon: Usa um escudo para refletir disparos dos dragões, focando em posicionamento estratégico.
+• Stannis Baratheon: Uses a shield to reflect dragon shots, focusing on strategic positioning.
 
-• Cada personagem possui um coletável específico que aprimora suas habilidades/atributos, além dos pontos dropados pelos dragões abatidos.
+• Each character has a specific collectible that improves their skills/attributes, in addition to the points dropped by slain dragons.
 
-## Controles:
+## Controls:
 
-Jogador      |     Teclas    |
+Player      |     Keys    |
 | ------------------- | ------------------- |
-|  **Movimentação**| &#8592; , &#8593; , &#8594; , &#8595; |
-|  **Ataque** | K |
+|  **Movement**| &#8592; , &#8593; , &#8594; , &#8595; |
+|  **Attack** | K |
 
 ## Colecionaveis
 
