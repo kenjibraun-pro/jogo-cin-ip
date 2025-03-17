@@ -102,7 +102,7 @@ def menu_principal():
                 if evento.button == 1:
                     clicado = True  # Permitir nova detecção de clique
                     
-        pygame.display.update()
-
+        pygame.display.update()    
+      
 # Executar a função do menu principal
 menu_principal()
